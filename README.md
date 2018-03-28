@@ -15,3 +15,4 @@ Copy assets folder into new Unity project and open the scene.
 ## How to play
 Once you build the project use WASD to move, SPACEBAR to jump.
 1-8 keys to change building block, when empty block is selected, game switches to block destruction mode.
+ESC to save and quit the game.
